@@ -1,4 +1,4 @@
-Moodle-backup-shell-script
+MySQL-backup-shell-script
 ==========================
 
-Moodle backup script written in shell (include MySQL)
+MySQL backup script written in shell
